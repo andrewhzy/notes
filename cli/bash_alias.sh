@@ -1,4 +1,5 @@
 ### common ###
+alias lla='ll -a'
 alias sls='sed -r "s/\x1B\[([0-9]{1,2}(;[0-9]{1,2})?)?[m|K]//g" | less -R'
 alias hls='history | less'
 
