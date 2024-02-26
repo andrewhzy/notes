@@ -1,3 +1,11 @@
+### common ###
+alias hgp='history | grep'
+alias hls='history | less'
+
+
+
+
+### git ###
 alias gck='git checkout'
 alias gst='git status'
 alias gsh='git stash'
