@@ -1,7 +1,6 @@
 # IAM Fundamentals
-- Users and groups
-![image](https://github.com/andrewhzy/notes/assets/71499897/41ea16fa-0910-4aa7-917e-388ab0fa4b4f)
-
+- Users and groups  
+![image](https://github.com/andrewhzy/notes/assets/71499897/d28b8cc1-f937-4e4d-b701-399a87b07488)
 - Roles
 - Types of AWS credentials
   - username and password
@@ -30,5 +29,6 @@
   ![image](https://github.com/andrewhzy/notes/assets/71499897/bbf16b95-862b-4d15-b2c1-8cf5a2c9a09a)
 - Explicit and implicit denies
   ![image](https://github.com/andrewhzy/notes/assets/71499897/c9ea89e4-f6fd-455b-9b24-0a126f53e22b)
+
 
 
