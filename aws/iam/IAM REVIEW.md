@@ -1,5 +1,7 @@
 # IAM Fundamentals
 - Users and groups
+![image](https://github.com/andrewhzy/notes/assets/71499897/c8e98ec0-bfe1-43e6-bd6c-462b60e681cc)
+
 - Users and groups
   ![image](https://github.com/andrewhzy/notes/assets/71499897/080eff86-7a7e-48f0-b707-c369d68c14c3)
 - Roles
